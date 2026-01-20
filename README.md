@@ -15,8 +15,8 @@ Part 3: SFT on LFM2.5 Architecture
 - Training setup, hyperparameters, hardware requirements
 - Instruction-following preservation during translation fine-tuning
 - Checkpoint selection strategy
-P
-art 4: DPO Refinement — The 1% That Gets You 10%
+
+Part 4: DPO Refinement — The 1% That Gets You 10%
 - Curating the 30K preference pairs
 - Selecting "preferred" vs "rejected" translations
 - DPO hyperparameters and training dynamics
